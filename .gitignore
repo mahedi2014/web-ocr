@@ -1,0 +1,6 @@
+!/vendor/*
+
+.idea/*
+!src/DBClassMySql.php
+!public/uploads/*
+logs/*

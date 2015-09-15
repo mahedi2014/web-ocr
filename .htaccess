@@ -1,0 +1,7 @@
+RewriteEngine On
+
+#error index rediect
+errorDocument 400 http://192.168.50.103
+errorDocument 401 http://192.168.50.103
+errorDocument 404 http://192.168.50.103
+errorDocument 500 http://192.168.50.103
